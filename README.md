@@ -1,6 +1,8 @@
 # Unicorn PE
 Unicorn PE is an [unicorn](https://github.com/unicorn-engine/unicorn) based instrumentation project/framework designed to emulate code execution for windows PE files, especially packed ones.
 
+* This project is archived and no longer maintained. [sogen](https://github.com/momo5502/sogen) is recommended as a successor.
+
 ## Feature
 
 Dump PE image from emu-memory into file, fix import table, decrypt VMProtect strings, decrypt VMProtect imports.
